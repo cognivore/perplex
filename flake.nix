@@ -26,6 +26,7 @@
                         ppkgs.lxml
                         # Helpers
                         pkgs.jupyter
+                        pkgs.shellcheck
                     ];
                 };
         };
